@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592798133517",
+    "project_id": "macopine-202502",
+    "storage_bucket": "macopine-202502.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592798133517:android:81a8868e752b9cdecc1444",
+        "android_client_info": {
+          "package_name": "org.qimei.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByT4HfxBS3YD7u3Ub6b3pmfYnbPnz8eRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

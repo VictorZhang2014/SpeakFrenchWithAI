@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "Σύνδεση",
+  "active": "Ενεργό",
+  "startRecording": "Έναρξη εγγραφής",
+  "pauseRecording": "Διακοπή",
+  "pleaseWaitParlerAIIsRespondingU": "Νομίζω",
+  "me": "Εγώ",
+  "copine": "Parlerai",
+  "audioMessage": "Ηχητικό μήνυμα",
+
+  "settings": "Ρυθμίσεις",
+  "account": "Λογαριασμός",
+  "email": "Email",
+  "chatHistory": "Ιστορικό συνομιλίας",
+  "login": "Σύνδεση",
+  "logout": "Αποσύνδεση",
+  "aiEngine": "Μηχανή Τεχνητής Νοημοσύνης",
+  "chooseTheOneYouPrefer": "Επιλέξτε αυτήν που προτιμάτε",
+  "changeNow": "Αλλαγή τώρα",
+  "operationCompleted": "Η λειτουργία ολοκληρώθηκε",
+  "openaiIntro": "Αναπτύχθηκε στις Ηνωμένες Πολιτείες, με πρωτοπόρο το ChatGPT. Χάρη στην ικανότητά του να δημιουργεί ρεαλιστικές συζητήσεις, το OpenAI βοηθά το MaCopine να σας προσφέρει ζωντανούς και ποικίλους διαλόγους, σαν να μιλούσατε με έναν πραγματικό φίλο.",
+  "deepseekIntro": "Αναπτύχθηκε στην Κίνα, είναι η πρώτη ισχυρή κινεζική τεχνητή νοημοσύνη στον κόσμο. Η μηχανή της βοηθά την MaCopine να αναλύει τις απαντήσεις σας και να παρέχει εξατομικευμένα σχόλια, βελτιώνοντας την προφορά και την ευχέρειά σας με φιλικό και εποικοδομητικό τρόπο.",
+  "lechatIntro": "Αναπτύχθηκε στη Γαλλία από την Mistral AI, το πρώτο δημοφιλές γαλλικό προϊόν τεχνητής νοημοσύνης στον κόσμο, η LeChat βοηθά την MaCopine με περιστασιακές και ανεπίσημες ανταλλαγές, προσομοιώνοντας περιστασιακές συνομιλίες και δημιουργώντας μια αυθεντική και φιλική εμπειρία για να βελτιώσετε τις δεξιότητές σας στην ομιλία.",
+  "grokIntro": "Αναπτύχθηκε στις Ηνωμένες Πολιτείες από την ομάδα τεχνητής νοημοσύνης του Elon Musk, η Grok προσφέρει προηγμένες δυνατότητες συνομιλίας στην MaCopine, προσφέροντας έξυπνες και ενδιαφέρουσες ανταλλαγές για να βελτιώσετε τις γλωσσικές σας δεξιότητες σε πραγματικό χρόνο.",
+  "changeLanguage": "Αλλαγή γλώσσας",
+  "maximumRecording": "Μέγιστη εγγραφή",
+  "about": "Σχετικά με",
+  "version": "Έκδοση",
+
+  "cancel": "Ακύρωση",
+  "confirm": "Επιβεβαίωση",
+  "goToSettings": "Μετάβαση σε Ρυθμίσεις",
+  "microphonePermission": "Άδεια Μικροφώνου",
+  "microphonePermissionRequest": "Το ParlerAI απαιτεί πρόσβαση στο μικρόφωνό σας για να ενεργοποιήσει τις λειτουργίες ηχογράφησης και αλληλεπίδρασης. Παρακαλώ δώστε πρόσβαση στο μικρόφωνο για να απολαύσετε την πλήρη εμπειρία της εφαρμογής.",
+  "loading": "Φόρτωση",
+  "privacyData": "Απόρρητο και Δεδομένα",
+  "privacyPolicy": "Πολιτική Απορρήτου",
+  "termsofService": "Όροι Παροχής Υπηρεσιών",
+  "deleteAllMyData": "Διαγραφή όλων των δεδομένων μου",
+  "deleteMyAccount": "Διαγραφή του λογαριασμού μου",
+  "deleteAllMyDataHints": "Μόλις διαγράψετε όλα τα δεδομένα σας, δεν υπάρχει επιστροφή και δεν μπορείτε πλέον να ανακτήσετε τα δεδομένα σας. Να είστε σίγουροι.",
+  "deleteMyAccountHints": "Μόλις διαγράψετε τον λογαριασμό σας, δεν υπάρχει επιστροφή και δεν μπορείτε πλέον να συνδεθείτε με αυτόν τον λογαριασμό. Να είστε σίγουροι.",
+  
+  "textChatInstructionGuide1": "Γεια σας! Είμαι η Parlerai, η φίλη σας στα Γαλλικά επιπέδου C2. Πώς μπορώ να σας βοηθήσω με τις ερωτήσεις γραμματικής και δομής προτάσεων σήμερα; Μπορείτε επίσης να μου κάνετε ερωτήσεις σχετικά με τη γαλλική κουλτούρα, την κουζίνα, τις παραδόσεις ή οποιοδήποτε άλλο θέμα θέλετε να συζητήσουμε.",
+  "hiHowAreYouGoingToday": "Γεια σας, πώς είστε σήμερα;",
+  "pleaseTellMeAboutYourQuestions": "Πείτε μου για τις ερωτήσεις σας",
+  "copied": "Αντιγράφηκε",
+  "dislike": "Δεν μου αρέσει",
+  "report": "Αναφορά",
+  "close": "Κλείσιμο",
+  "thankYouForYourSupporting": "Ευχαριστούμε για την υποστήριξή σας.",
+  "weWillContinueWorkingToImproveTheContent": "Ευχαριστούμε. Θα συνεχίσουμε να βελτιώνουμε το περιεχόμενο.",
+  "weApologizeForTheInappropriateContent": "Ζητούμε συγγνώμη για το ακατάλληλο περιεχόμενο και δεσμευόμαστε να το βελτιώσουμε.",
+
+  "iapCapabilityTitle": "Αποκτήστε το \nMyCopine Plus",
+  "iapCapabilitySubtitle": "Ο φίλος σας στα γαλλικά επιπέδου C2",
+  "iapCapability1": "Όλα είναι δωρεάν",
+  "iapCapability2": "Προηγμένη αλληλεπίδραση μέσω φωνητικής λειτουργίας",
+  "iapCapability3": "Απεριόριστη πρόσβαση στην κλήση ParlerAI σε πραγματικό χρόνο",
+  "iapCapability4": "Απεριόριστα αιτήματα για αξιολόγηση κειμένου, διορθώσεις, γραμματικούς ελέγχους, βελτιώσεις δομής προτάσεων και πολλά άλλα",
+  "iapCapability5": "Πληρώστε μόνο 8 μήνες, λάβετε 4 μήνες δωρεάν, με έκπτωση 37% σε σύγκριση με τη μηνιαία συνδρομή",
+  "iapCapability6": "Μόνο 0,267 $ ανά ημέρα",
+  "iapCapability7": "Η πρώτη εβδομάδα είναι δωρεάν",
+  "iapCapability8": "Οι πρώτες δύο εβδομάδες είναι δωρεάν",
+  "iapBilledMonthly": "Μηνιαία χρέωση 12,99 $. Ακύρωση οποιαδήποτε στιγμή.",
+  "iapBilledYearly": "Ετήσια χρέωση 99,00 $. Ακύρωση οποιαδήποτε στιγμή.",
+  "iapMonthlyBtn": "Μηνιαία",
+  "iapYearlyBtn": "Ετήσια",
+  "iapPayButton": "Αναβάθμιση σε ParlerAI Plus",
+  "iapRestore": "Επαναφορά",
+  "iapPurchaseSucceeds": "Η αγορά ήταν επιτυχής",
+  "iapPurchaseFailed": "Η αγορά απέτυχε",
+  "iapPurchaseCanceled": "Η αγορά ακυρώθηκε",
+  "iapRestoredSuccess": "Η επαναφορά ολοκληρώθηκε με επιτυχία",
+  "iapPurchaseHistory": "Ιστορικό αγορών",
+  "subscription": "Συνδρομή",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "Επαναφορά αγοράς",
+  "iapValidUntilTheDate": "Ισχύει μέχρι {theDate}",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "Τυπική EULA της Apple",
+  "iapIHaveReadAndConsentedTermsOfUse": "Έχω διαβάσει και αποδεχτεί τους {TermsOfUse}, την {PrivacyPolicy} και την {EULA}.",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "Μάθε Γαλλικά;",
+  "callToParlerAI": "Κλήση στην κοπέλα μου Τώρα",
+  "helloYouWantToLearnFrenchWithOceane": "Γεια σας! Θέλετε να μάθετε γαλλικά με τη φίλη σας την Parlerai;"
+}

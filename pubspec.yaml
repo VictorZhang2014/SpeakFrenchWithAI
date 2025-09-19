@@ -1,0 +1,63 @@
+name: flutter_c2copine
+description: "A new Flutter project."
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.1+11 # App Store
+# version: 1.0.0+7 # Play Store
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  dio: ^5.7.0
+  permission_handler: ^11.4.0
+  app_settings: ^6.1.1
+  path_provider: ^2.1.5
+  audio_session: ^0.1.23
+  flutter_sound: ^9.17.8
+  flutter_easyloading: ^3.0.5
+  fluttertoast: ^8.2.12
+  logger: ^2.5.0
+  shared_preferences: ^2.5.2
+  package_info_plus: ^8.2.1 
+  firebase_core: 3.12.1
+  webview_flutter: ^4.11.0
+  video_player: ^2.9.5
+  animated_text_kit: ^4.2.3
+  in_app_purchase: ^3.2.1
+  notification_centre: ^0.0.3
+  uuid: ^4.5.1
+  intl: ^0.20.2
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: "^0.14.3"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+  min_sdk_android: 21  
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/images/
+    - assets/video/
+
+    

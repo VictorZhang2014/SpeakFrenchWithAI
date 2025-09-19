@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "Kapcsolat",
+  "active": "Aktív",
+  "startRecording": "Felvétel indítása",
+  "pauseRecording": "Leállítás",
+  "pleaseWaitParlerAIIsRespondingU": "Azt hiszem",
+  "me": "Én",
+  "copine": "Parlerai",
+  "audioMessage": "Hangüzenet",
+
+  "settings": "Beállítások",
+  "account": "Fiók",
+  "email": "E-mail",
+  "chatHistory": "Csevegési előzmények",
+  "login": "Bejelentkezés",
+  "logout": "Kijelentkezés",
+  "aiEngine": "AI Engine",
+  "chooseTheOneYouPrefer": "Válassza ki a kívántat",
+  "changeNow": "Módosítás most",
+  "operationCompleted": "Művelet befejezve",
+  "openaiIntro": "Az Egyesült Államokban fejlesztették ki, a ChatGPT úttörő szerepet játszott. A valósághű beszélgetések generálására való képességének köszönhetően az OpenAI segít a MaCopine-nak élénk és változatos élményt nyújtani. párbeszédeket, mintha egy igazi baráttal beszélgetnél.",
+  "deepseekIntro": "Kínában fejlesztették ki, ez a világ első nagy teljesítményű kínai mesterséges intelligenciája. Motorja segít a MaCopine-nak elemezni a válaszaidat, és személyre szabott visszajelzést adni, barátságos és konstruktív módon javítva a kiejtésedet és a folyékonyságodat.",
+  "lechatIntro": "A Mistral AI, a világ első népszerű francia MI-terméke által Franciaországban kifejlesztett LeChat segíti a MaCopine-t a kötetlen és informális beszélgetésekben, szimulálva a kötetlen beszélgetéseket, és hiteles és barátságos élményt teremtve a beszédkészséged fejlesztéséhez.",
+  "grokIntro": "Az Egyesült Államokban Elon Musk MI-csapata által kifejlesztett Grok fejlett beszélgetési képességeket hoz a MaCopine-ba, intelligens és lebilincselő beszélgetéseket kínálva a nyelvi készségeid valós idejű fejlesztéséhez.",
+  "changeLanguage": "Nyelv módosítása",
+  "maximumRecording": "Maximális felvétel",
+  "about": "Névjegy",
+  "version": "Verzió",
+
+  "cancel": "Mégsem",
+  "confirm": "Megerősítés",
+  "goToSettings": "Ugrás a következőre: Beállítások",
+  "microphonePermission": "Mikrofonengedély",
+  "microphonePermissionRequest": "A ParlerAI mikrofon-hozzáférést igényel az audiofelvétel és az interaktív funkciók engedélyezéséhez. Kérjük, engedélyezze a mikrofonhoz való hozzáférést az alkalmazás teljes élvezetéhez.",
+  "loading": "Betöltés",
+  "privacyData": "Adatvédelem és adatok",
+  "privacyPolicy": "Adatvédelmi irányelvek",
+  "termsofService": "Szolgáltatási feltételek",
+  "deleteAllMyData": "Összes adat törlése",
+  "deleteMyAccount": "Fiókom törlése",
+  "deleteAllMyDataHints": "Miután törölte az összes adatát, nincs visszaút, és nem tudja visszaállítani az adatait. Biztos lehet benne.",
+  "deleteMyAccountHints": "Miután törölte a fiókját, nincs visszaút, és többé nem tud bejelentkezni ezzel a fiókkal. Biztos lehet benne.",
+
+  "textChatInstructionGuide1": "Üdvözlöm! Parlerai vagyok, a C2 szintű francia barátja. Miben segíthetek a nyelvtani és mondatszerkezeti kérdései megválaszolásában ma? Kérdezhetsz a francia kultúráról, konyháról, hagyományokról vagy bármilyen más témáról, amiről beszélni szeretnél.",
+  "hiHowAreYouGoingToday": "Szia, hogy vagy ma?",
+  "pleaseTellMeAboutYourQuestions": "Mesélj a kérdéseidről",
+  "copied": "Másolva",
+  "dislike": "Nem tetszik",
+  "report": "Jelentés",
+  "close": "Bezárás",
+  "thankYouForYourSupporting": "Köszönjük a támogatást.",
+  "weWillContinueWorkingToImproveTheContent": "Köszönjük. Továbbra is dolgozunk a tartalom fejlesztésén.",
+  "weApologizeForTheInappropriateContent": "Elnézést kérünk a nem megfelelő tartalomért, dolgozunk a javításán.",
+
+  "iapCapabilityTitle": "Szerezd meg a \nMyCopine Plus-t",
+  "iapCapabilitySubtitle": "C2 szintű francia barátod",
+  "iapCapability1": "Minden ingyenes",
+  "iapCapability2": "Haladó interakció hangmódon keresztül",
+  "iapCapability3": "Korlátlan hozzáférés a ParlerAI valós idejű híváshoz",
+  "iapCapability4": "Korlátlan számú kérés szövegértékelésre, javításokra, nyelvtani ellenőrzésekre, mondatszerkezet-javításokra és egyebekre",
+  "iapCapability5": "Fizess csak 8 hónapot, és kapj 4 hónapot ingyen, 37%-os kedvezménnyel a havi előfizetéshez képest",
+  "iapCapability6": "Csak 0,267 dollár naponta",
+  "iapCapability7": "Az első hét a ingyenes",
+  "iapCapability8": "Az első két hét ingyenes",
+  "iapBilledMonthly": "Havi számlázás 12,99 dollárért. Bármikor lemondható.",
+  "iapBilledYearly": "Évente számlázás 99,00 dollárért. Bármikor lemondható.",
+  "iapMonthlyBtn": "Havi",
+  "iapYearlyBtn": "Éves",
+  "iapPayButton": "Frissítés ParlerAI Plusra",
+  "iapRestore": "Visszaállítás",
+  "iapPurchaseSucceeds": "Sikeres vásárlás",
+  "iapPurchaseFailed": "Vásárlás sikertelen",
+  "iapPurchaseCancelled": "Vásárlás lemondva",
+  "iapRestoredSuccess": "Sikeresen visszaállítva",
+  "iapPurchaseHistory": "Vásárlási előzmények",
+  "subscription": "Előfizetés",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "Vásárlás visszaállítása",
+  "iapValidUntilTheDate": "Érvényes eddig: {theDate}",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "Apple szabványos végfelhasználói licencszerződése",
+  "iapIHaveReadAndConsentedTermsOfUse": "Elolvastam és elfogadom a(z) {TermsOfUse}, a(z) {PrivacyPolicy} és a(z) {EULA} dokumentumokat.",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "Tanulj franciául?",
+  "callToParlerAI": "Hívd a barátnőmet Now",
+  "helloYouWantToLearnFrenchWithOceane": "Szia! Szeretnél franciául tanulni a barátoddal, Parlerai-nal?"
+}

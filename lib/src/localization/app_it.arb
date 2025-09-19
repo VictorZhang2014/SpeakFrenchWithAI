@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "Connessione",
+  "active": "Attivo",
+  "startRecording": "Avvia registrazione",
+  "pauseRecording": "Interrompi",
+  "pleaseWaitParlerAIIsRespondingU": "Penso",
+  "me": "Io",
+  "copine": "Parlerai",
+  "audioMessage": "Messaggio audio",
+
+  "settings": "Impostazioni",
+  "account": "Account",
+  "email": "Email",
+  "chatHistory": "Cronologia chat",
+  "login": "Accedi",
+  "logout": "Esci",
+  "aiEngine": "Motore di intelligenza artificiale",
+  "chooseTheOneYouPrefer": "Scegli quello che preferisci",
+  "changeNow": "Modifica ora",
+  "operationCompleted": "Operazione completata",
+  "openaiIntro": "Sviluppato negli Stati Uniti, con ChatGPT come pioniere. Grazie alla sua capacità di generare Conversazioni realistiche, OpenAI aiuta MaCopine a offrirti dialoghi vivaci e vari, come se stessi parlando con un vero amico.",
+  "deepseekIntro": "Sviluppato in Cina, è la prima potente intelligenza artificiale cinese al mondo. Il suo motore aiuta MaCopine ad analizzare le tue risposte e a fornire feedback personalizzati, migliorando la tua pronuncia e la tua fluidità in modo amichevole e costruttivo.",
+  "lechatIntro": "Sviluppato in Francia da Mistral AI, il primo prodotto di intelligenza artificiale francese popolare al mondo, LeChat aiuta MaCopine negli scambi informali, simulando conversazioni informali e creando un'esperienza autentica e amichevole per migliorare le tue capacità di conversazione.",
+  "grokIntro": "Sviluppato negli Stati Uniti dal team di intelligenza artificiale di Elon Musk, Grok porta funzionalità di conversazione avanzate su MaCopine, offrendo scambi intelligenti e coinvolgenti per migliorare le tue competenze linguistiche in tempo reale.",
+  "changeLanguage": "Cambia lingua",
+  "maximumRecording": "Registrazione massima",
+  "about": "Informazioni",
+  "version": "Version",
+
+  "cancel": "Annulla",
+  "confirm": "Conferma",
+  "goToSettings": "Vai alle Impostazioni",
+  "microphonePermission": "Autorizzazione microfono",
+  "microphonePermissionRequest": "ParlerAI richiede l'accesso al tuo microfono per abilitare la registrazione audio e le funzionalità di interazione. Si prega di concedere l'accesso al microfono per usufruire di tutte le funzionalità dell'app.",
+  "loading": "Caricamento in corso",
+  "privacyData": "Privacy e dati",
+  "privacyPolicy": "Informativa sulla privacy",
+  "termsofService": "Termini di servizio",
+  "deleteAllMyData": "Elimina tutti i miei dati",
+  "deleteMyAccount": "Elimina il mio account",
+  "deleteAllMyDataHints": "Una volta eliminati tutti i tuoi dati, non potrai più tornare indietro e non potrai più recuperarli. Assicurati.",
+  "deleteMyAccountHints": "Una volta eliminato il tuo account, non potrai più tornare indietro e non potrai più accedere con questo account. Certo.",
+
+  "textChatInstructionGuide1": "Ciao! Sono Parlerai, la tua amica di francese di livello C2. Come posso aiutarti con le tue domande di grammatica e struttura delle frasi di oggi? Puoi anche farmi domande sulla cultura francese, la cucina, le tradizioni o qualsiasi altro argomento di cui desideri discutere.",
+  "hiHowAreYouGoingToday": "Ciao, come stai oggi?",
+  "pleaseTellMeAboutYourQuestions": "Parlami delle tue domande",
+  "copied": "Copiato",
+  "dislike": "Non mi piace",
+  "report": "Segnala",
+  "close": "Chiudi",
+  "thankYouForYourSupporting": "Grazie per il tuo supporto.",
+  "weWillContinueWorkingToImproveTheContent": "Grazie. Continueremo a migliorare i contenuti.",
+  "weApologizeForTheInappropriateContent": "Ci scusiamo per il contenuto inappropriato e ci impegniamo a migliorarlo.",
+
+  "iapCapabilityTitle": "Ottieni il tuo \nMyCopine Plus",
+  "iapCapabilitySubtitle": "Il tuo amico francese di livello C2",
+  "iapCapability1": "Tutto è gratuito",
+  "iapCapability2": "Interazione avanzata tramite modalità vocale",
+  "iapCapability3": "Accesso illimitato a ParlerAI Realtime Call",
+  "iapCapability4": "Richieste illimitate di valutazione del testo, correzioni, controlli grammaticali, miglioramenti della struttura delle frasi e altro ancora",
+  "iapCapability5": "Paga solo 8 mesi, ottieni 4 mesi gratis, con uno sconto del 37% rispetto all'abbonamento mensile",
+  "iapCapability6": "Solo $0,267 per giorno",
+  "iapCapability7": "La prima settimana è gratuita",
+  "iapCapability8": "Le prime due settimane sono gratuite",
+  "iapBilledMonthly": "Addebito mensile a $ 12,99. Disdici in qualsiasi momento.",
+  "iapBilledYearly": "Addebito annuale a $ 99,00. Annulla in qualsiasi momento.",
+  "iapMonthlyBtn": "Mensile",
+  "iapYearlyBtn": "Annuale",
+  "iapPayButton": "Aggiorna a ParlerAI Plus",
+  "iapRestore": "Ripristina",
+  "iapPurchaseSucceeds": "Acquisto effettuato",
+  "iapPurchaseFailed": "Acquisto non riuscito",
+  "iapPurchaseCancelled": "Acquisto annullato",
+  "iapRestoredSuccess": "Ripristinato correttamente",
+  "iapPurchaseHistory": "Cronologia acquisti",
+  "subscription": "Abbonamento",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "Ripristina acquisto",
+  "iapValidUntilTheDate": "Valido fino al {theDate}",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "EULA standard di Apple",
+  "iapIHaveReadAndConsentedTermsOfUse": "Ho letto e accettato i {TermsOfUse}, la {PrivacyPolicy} e l'{EULA}.",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "Impara il francese?",
+  "callToParlerAI": "Chiama alla mia ragazza adesso",
+  "helloYouWantToLearnFrenchWithOceane": "Ciao! Vuoi studiare il francese con la tua amica Parlerai?"
+}

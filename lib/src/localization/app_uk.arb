@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "З'єднання",
+  "active": "Активний",
+  "startRecording": "Розпочати запис",
+  "pauseRecording": "Стоп",
+  "pleaseWaitParlerAIIsRespondingU": "Я думаю",
+  "me": "Я",
+  "copine": "Parlerai",
+  "audioMessage": "Аудіоповідомлення",
+
+  "settings": "Налаштування",
+  "account": "Обліковий запис",
+  "email": "Електронна пошта",
+  "chatHistory": "Історія чату",
+  "login": "Увійти",
+  "logout": "Вийти",
+  "aiEngine": "Двигун штучного інтелекту",
+  "chooseTheOneYouPrefer": "Виберіть той, який вам подобається",
+  "changeNow": "Змінити зараз",
+  "operationCompleted": "Операцію завершено",
+  "openaiIntro": "Розроблено в Сполучених Штатах, ChatGPT був піонером. Завдяки своїй здатності генерувати реалістичні розмови, OpenAI допомагає MaCopine пропонувати вам жваві та різноманітні діалоги, ніби ви розмовляєте зі справжнім другом.",
+  "deepseekIntro": "Розроблений у Китаї, це перший у світі потужний китайський штучний інтелект. Його двигун допомагає MaCopine аналізувати ваші відповіді та надавати персоналізований зворотний зв'язок, покращуючи вашу вимову та плавність мовлення у дружній та конструктивній манері.",
+  "lechatIntro": "Розроблений у Франції компанією Mistral AI, першим у світі популярним французьким штучним інтелектом, LeChat допомагає MaCopine у ​​неформальному та випадковому спілкуванні, імітуючи невимушені розмови та створюючи автентичний та дружній досвід для покращення ваших розмовних навичок.",
+  "grokIntro": "Розроблений у Сполучених Штатах командою штучного інтелекту Ілона Маска, Grok надає MaCopine розширені можливості для розмов, пропонуючи інтелектуальний та захопливий обмін інформацією для покращення ваших мовних навичок у режимі реального часу.",
+  "changeLanguage": "Змінити мову",
+  "maximumRecording": "Максимальний запис",
+  "about": "Про нас",
+  "version": "Версія",
+
+  "cancel": "Скасувати",
+  "confirm": "Підтвердити",
+  "goToSettings": "Перейти до налаштувань",
+  "microphonePermission": "Дозвіл на доступ до мікрофона",
+  "microphonePermissionRequest": "ParlerAI потребує доступу до вашого мікрофона для запису звуку та функцій взаємодії. Будь ласка, надайте доступ до мікрофона, щоб повністю використовувати можливості додатка.",
+  "loading": "Завантаження",
+  "privacyData": "Конфіденційність та дані",
+  "privacyPolicy": "Політика конфіденційності",
+  "termsofService": "Умови надання послуг",
+  "deleteAllMyData": "Видалити всі мої дані",
+  "deleteMyAccount": "Видалити мій обліковий запис",
+  "deleteAllMyDataHints": "Після видалення всіх ваших даних шляху назад не буде, і ви не зможете їх відновити. дані. Будьте впевнені в цьому.",
+  "deleteMyAccountHints": "Після видалення вашого облікового запису шляху назад не буде, і ви більше не зможете увійти за допомогою цього облікового запису. Будьте впевнені в цьому.",
+
+  "textChatInstructionGuide1": "Привіт! Я Океан, ваша подруга з французької мови рівня C2. Чим я можу допомогти вам із питаннями граматики та структури речень сьогодні? Ви також можете поставити мені запитання про французьку культуру, кухню, традиції чи будь-яку іншу тему, яку ви хочете обговорити.",
+  "hiHowAreYouGoingToday": "Привіт, як справи сьогодні?",
+  "pleaseTellMeAboutYourQuestions": "Розкажіть мені про ваші запитання",
+  "copied": "Скопійовано",
+  "dislike": "Не подобається",
+  "report": "Поскаржитись",
+  "close": "Закрити",
+  "thankYouForYourSupporting": "Дякуємо за вашу підтримку.",
+  "weWillContinueWorkingToImproveTheContent": "Дякуємо. Ми продовжимо вдосконалювати контент.",
+  "weApologizeForTheInappropriateContent": "Просимо вибачення за недоречний контент і прагнемо його покращити.",
+
+  "iapCapabilityTitle": "Отримайте свій \nMyCopine Plus",
+  "iapCapabilitySubtitle": "Ваш французький друг рівня C2",
+  "iapCapability1": "Все безкоштовно",
+  "iapCapability2": "Розширена взаємодія через голосовий режим",
+  "iapCapability3": "Необмежений доступ до ParlerAI Realtime Call",
+  "iapCapability4": "Необмежена кількість запитів на оцінку тексту, виправлення, перевірку граматики, покращення структури речень тощо",
+  "iapCapability5": "Платьте лише 8 місяців, отримайте 4 місяці безкоштовно, зі знижкою 37% порівняно з щомісячною підпискою",
+  "iapCapability6": "Всього $0,267 за день",
+  "iapCapability7": "Перший тиждень безкоштовний",
+  "iapCapability8": "Перші два тижні безкоштовні",
+  "iapBilledMonthly": "Щомісячна плата $12.99. Скасувати можна будь-коли.",
+  "iapBilledYearly": "Щорічна плата $99.00. Скасувати можна будь-коли.",
+  "iapMonthlyBtn": "Щомісячно",
+  "iapYearlyBtn": "Щорічний",
+  "iapPayButton": "Оновити до ParlerAI Plus",
+  "iapRestore": "Відновити",
+  "iapPurchaseSucceeds": "Покупка успішна",
+  "iapPurchaseFailed": "Покупка не вдалася",
+  "iapPurchaseCancelled": "Покупку скасовано",
+  "iapRestoredSuccess": "Успішно відновлено",
+  "iapPurchaseHistory": "Історія покупок",
+  "subscription": "Підписка",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "Відновити покупку",
+  "iapValidUntilTheDate": "Дійсний до {theDate}",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "Стандартна EULA Apple",
+  "iapIHaveReadAndConsentedTermsOfUse": "Я прочитав і погоджуюсь з {TermsOfUse}, {PrivacyPolicy} та {EULA}.",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "Вивчати Французька?",
+  "callToParlerAI": "Зателефонуй моїй дівчині зараз",
+  "helloYouWantToLearnFrenchWithOceane": "Привіт! Хочеш вивчати французьку зі своєю подругою Океан?"
+}

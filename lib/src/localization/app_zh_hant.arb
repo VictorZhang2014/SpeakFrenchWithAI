@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "连接中",
+  "active": "活躍中",
+  "startRecording": "開始錄音",
+  "pauseRecording": "暫停錄音",
+  "pleaseWaitParlerAIIsRespondingU": "我正在思考",
+  "me": "我",
+  "copine": "Parlerai",
+  "audioMessage": "語音消息",
+
+  "settings": "設置",
+  "account": "帳戶",
+  "email": "信箱",
+  "chatHistory": "聊天歷史記錄",
+  "login": "登入",
+  "logout": "退出",
+  "aiEngine": "AI引擎",
+  "chooseTheOneYouPrefer": "選擇您喜歡的", 
+  "changeNow": "立即更改", 
+  "operationCompleted": "操作已完成",
+  "openaiIntro": "在美國開發，以ChatGPT為先鋒。憑藉其生成真實對話的能力，OpenAI幫助MaCopine提供生動多樣的對話，就像與真正的朋友交談一樣。",
+  "deepseekIntro": "在中國開發，是中國對全世界的首個強大的中文AI產品。該引擎幫助MaCopine分析您的回答，並提供個性化的反饋，友好且建設性地提高您的發音和流利度。",
+  "lechatIntro": "在法國由Mistral AI開發，是法國對全世界的首個受歡迎的法語AI產品，LeChat幫助MaCopine提供輕鬆隨意的交流，模擬非正式對話，創造真實、友好的互動體驗，提升口語能力。",
+  "grokIntro": "由埃隆馬斯克的AI團隊在美國開發，Grok為MaCopine提供尖端的對話式AI能力，實時提供智能且有趣的對話，幫助您提高語言技能。","changeLanguage": "語言切換",
+  "maximumRecording": "最長錄音",
+  "about": "關於",
+  "version": "版本",
+
+  "cancel": "取消",
+  "confirm": "確定",
+  "goToSettings": "去設定",
+  "microphonePermission": "麥克風權限",
+  "microphonePermissionRequest": "ParlerAI需要存取您的麥克風，以啟用錄音和互動功能。請授權麥克風存取以完整體驗此應用程式。",
+  "loading": "載入中",
+  "privacyData": "隱私與資料",
+  "privacyPolicy": "隱私權政策",
+  "termsofService": "服務條款",
+  "deleteAllMyData": "刪除我的所有資料",
+  "deleteMyAccount": "刪除我的帳戶",
+  "deleteAllMyDataHints": "一旦刪除所有數據，你將沒有回頭路，也無法恢復數據，請確定。",
+  "deleteMyAccountHints": "一旦刪除帳戶，你將沒有回頭路，無法再次使用此帳戶登錄，請確定。",
+
+  "textChatInstructionGuide1": "您好！我是Parlerai，您的法文C2級好友，今天需要我幫忙解答文法和句子結構問題嗎？你也可以問我關於法國文化、美食、傳統和語言，或任何你想聊的話題。",
+  "hiHowAreYouGoingToday": "嗨，你今天過得怎麼樣？",
+  "pleaseTellMeAboutYourQuestions": "請告訴我你的問題",
+  "copied": "已複製",
+  "dislike": "不喜歡",
+  "report": "檢舉",
+  "close": "關閉",
+  "thankYouForYourSupporting": "感謝您的支持。",
+  "weWillContinueWorkingToImproveTheContent": "謝謝。我們會繼續努力改進內容。",
+  "weApologizeForTheInappropriateContent": "對於不當內容，我們深感抱歉，並承諾會加以改進。",
+
+  "iapCapabilityTitle": "獲得您的\nParlerAI Plus",
+  "iapCapabilitySubtitle": "你的法語C2級好友",
+  "iapCapability1": "全部的都免費使用",
+  "iapCapability2": "透過語音模式進行進階互動",
+  "iapCapability3": "無限次造訪 ParlerAI 即時通話",
+  "iapCapability4": "無限次請求文字評估、批改、文法檢查和句子結構改進等",
+  "iapCapability5": "只需支付8個月，即可免費使用4個月，與月費方案相比，可享37%的折扣",
+  "iapCapability6": "每天只要$0.267",
+  "iapCapability7": "第一週免費使用",
+  "iapCapability8": "前兩週免費使用",
+  "iapBilledMonthly": "每月$12.99。隨時取消。",
+  "iapBilledYearly": "每年$99.00。隨時取消。",
+  "iapMonthlyBtn": "按月",
+  "iapYearlyBtn": "按年",
+  "iapPayButton": "升級到ParlerAI Plus",
+  "iapRestore": "恢復",
+  "iapPurchaseSucceeds": "購買成功",
+  "iapPurchaseFailed": "購買失敗",
+  "iapPurchaseCancelled": "購買已取消",
+  "iapRestoredSuccess": "恢復成功",
+  "iapPurchaseHistory": "購買歷史記錄",
+  "subscription": "會員訂閱",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "恢復購買",
+  "iapValidUntilTheDate": "有效期限至{theDate}",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "Apple 標準最終用戶授權協議",
+  "iapIHaveReadAndConsentedTermsOfUse": "我已閱讀並同意《{TermsOfUse}》、《{PrivacyPolicy}》和《{EULA}》。",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "學習法語嗎?",
+  "callToParlerAI": "馬上打給ParlerAI",
+  "helloYouWantToLearnFrenchWithOceane": "你好哇~ 想和你的好朋友Parlerai學習法文嗎？"
+}
+

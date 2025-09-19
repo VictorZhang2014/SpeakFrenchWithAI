@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "Conexiune",
+  "active": "Activă",
+  "startRecording": "Începe înregistrarea",
+  "pauseRecording": "Oprește",
+  "pleaseWaitParlerAIIsRespondingU": "Cred",
+  "me": "Eu",
+  "copine": "Parlerai",
+  "audioMessage": "Mesaj audio",
+
+  "settings": "Setări",
+  "account": "Cont",
+  "email": "Email",
+  "chatHistory": "Istoric chat",
+  "login": "Autentificare",
+  "logout": "Deconectare",
+  "aiEngine": "Motor AI",
+  "chooseTheOneYouPrefer": "Alege-l pe cel preferat",
+  "changeNow": "Modifică acum",
+  "operationCompleted": "Operațiune finalizată",
+  "openaiIntro": "Dezvoltat în Statele Unite, cu ChatGPT ca pionier. Datorită capacității sale de a genera conversații realiste, OpenAI ajută MaCopine să vă ofere conținut viu și variat. dialoguri, ca și cum ai vorbi cu un prieten adevărat.",
+  "deepseekIntro": "Dezvoltată în China, este prima inteligență artificială chineză puternică din lume. Motorul său ajută MaCopine să analizeze răspunsurile tale și să ofere feedback personalizat, îmbunătățindu-ți pronunția și fluența într-un mod prietenos și constructiv.",
+  "lechatIntro": "Dezvoltat în Franța de Mistral AI, primul produs de inteligență artificială franceză popular din lume, LeChat ajută MaCopine cu schimburi de replici casual și informale, simulând conversații casual și creând o experiență autentică și prietenoasă pentru a-ți îmbunătăți abilitățile de vorbire.",
+  "grokIntro": "Dezvoltat în Statele Unite de echipa de inteligență artificială a lui Elon Musk, Grok aduce capabilități conversaționale avansate la MaCopine, oferind schimburi inteligente și captivante pentru a-ți îmbunătăți abilitățile lingvistice în timp real.",
+  "changeLanguage": "Schimbare limbă",
+  "maximumRecording": "Înregistrare maximă",
+  "about": "Despre",
+  "version": "Versiune",
+
+  "cancel": "Anulare",
+  "confirm": "Confirmare",
+  "goToSettings": "Mergi la Setări",
+  "microphonePermission": "Permisiunea microfonului",
+  "microphonePermissionRequest": "ParlerAI necesită acces la microfonul dumneavoastră pentru a activa înregistrarea audio și funcțiile de interacțiune. Vă rugăm să acordați acces la microfon pentru a vă bucura de întreaga experiență a aplicației.",
+  "loading": "Se încarcă",
+  "privacyData": "Confidențialitate și date",
+  "privacyPolicy": "Politica de confidențialitate",
+  "termsofService": "Termeni și condiții",
+  "deleteAllMyData": "Ștergeți toate datele mele",
+  "deleteMyAccount": "Ștergeți contul meu",
+  "deleteAllMyDataHints": "Odată ce ștergeți toate datele, nu mai există cale de întoarcere și nu le puteți recupera. date. Fiți siguri de acest lucru.",
+  "deleteMyAccountHints": "Odată ce ștergeți contul, nu mai există cale de întoarcere și nu vă mai puteți conecta cu acest cont. Fiți siguri de acest lucru.",
+
+  "textChatInstructionGuide1": "Bună! Sunt Parlerai, prietena ta franceză de nivel C2. Cum te pot ajuta astăzi cu întrebările tale despre gramatică și structura propozițiilor? De asemenea, îmi poți pune întrebări despre cultura, bucătăria, tradițiile franceze sau orice alt subiect pe care dorești să-l discuți.",
+  "hiHowAreYouGoingToday": "Salut, ce mai faci astăzi?",
+  "pleaseTellMeAboutYourQuestions": "Spune-mi despre întrebările tale",
+  "copied": "Copiat",
+  "dislike": "Nu îmi place",
+  "report": "Raportează",
+  "close": "Închide",
+  "thankYouForYourSupporting": "Vă mulțumim pentru sprijin.",
+  "weWillContinueWorkingToImproveTheContent": "Mulțumim. Vom continua să îmbunătățim conținutul.",
+  "weApologizeForTheInappropriateContent": "Ne cerem scuze pentru conținutul nepotrivit și ne angajăm să-l îmbunătățim.",
+
+  "iapCapabilityTitle": "Obține-ți \nMyCopine Plus",
+  "iapCapabilitySubtitle": "Prietenul tău de franceză de nivel C2",
+  "iapCapability1": "Totul este gratuit",
+  "iapCapability2": "Interacțiune avansată prin modul vocal",
+  "iapCapability3": "Acces nelimitat la ParlerAI Realtime Call",
+  "iapCapability4": "Solicitări nelimitate pentru evaluarea textului, corecturi, verificări gramaticale, îmbunătățiri ale structurii propozițiilor și multe altele",
+  "iapCapability5": "Plătește doar 8 luni, primești 4 luni gratuit, cu o reducere de 37% față de abonamentul lunar",
+  "iapCapability6": "Doar 0,267 USD pe zi",
+  "iapCapability7": "Prima săptămână este gratuit",
+  "iapCapability8": "Primele două săptămâni sunt gratuite",
+  "iapBilledMonthly": "Facturat lunar la 12,99 USD. Anulare oricând.",
+  "iapBilledYearly": "Facturat anual la 99,00 USD. Anulați oricând.",
+  "iapMonthlyBtn": "Lunar",
+  "iapYearlyBtn": "Anual",
+  "iapPayButton": "Upgrade la ParlerAI Plus",
+  "iapRestore": "Restaurare",
+  "iapPurchaseSucceeds": "Achiziție reușită",
+  "iapPurchaseFailed": "Achiziție eșuată",
+  "iapPurchaseCancelled": "Achiziție anulată",
+  "iapRestoredSuccess": "Restaurat cu succes",
+  "iapPurchaseHistory": "Istoricul achizițiilor",
+  "subscription": "Abonament",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "Restaurați achiziția",
+  "iapValidUntilTheDate": "Valabil până la {theDate}",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "EULA standard Apple",
+  "iapIHaveReadAndConsentedTermsOfUse": "Am citit și sunt de acord cu {TermsOfUse}, {PrivacyPolicy} și {EULA}.",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "Învățați franceza?",
+  "callToParlerAI": "Sunați-o pe prietena mea Acum",
+  "helloYouWantToLearnFrenchWithOceane": "Salut! Vrei să studiezi franceza cu prietena ta Parlerai?"
+}

@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "Bağlantı",
+  "active": "Aktif",
+  "startRecording": "Kaydı başlat",
+  "pauseRecording": "Durdur",
+  "pleaseWaitParlerAIIsRespondingU": "Sanırım",
+  "me": "Ben",
+  "copine": "Parlerai",
+  "audioMessage": "Sesli Mesaj",
+
+  "settings": "Ayarlar",
+  "account": "Hesap",
+  "email": "E-posta",
+  "chatHistory": "Sohbet Geçmişi",
+  "login": "Giriş yap",
+  "logout": "Çıkış yap",
+  "aiEngine": "AI Engine",
+  "chooseTheOneYouPrefer": "İstediğinizi seçin prefer",
+  "changeNow": "Hemen değiştir",
+  "operationCompleted": "Operasyon tamamlandı",
+  "openaiIntro": "Öncü olarak ChatGPT ile Amerika Birleşik Devletleri'nde geliştirildi. Gerçekçi konuşmalar üretme yeteneği sayesinde OpenAI, MaCopine'a gerçek bir arkadaşınızla konuşuyormuşsunuz gibi canlı ve çeşitli diyaloglar sunmanıza yardımcı olur.",
+  "deepseekIntro": "Çin'de geliştirilen, dünyanın ilk güçlü Çin AI'sıdır. Motoru, MaCopine'ın yanıtlarınızı analiz etmesine ve kişiselleştirilmiş geri bildirim sağlamasına yardımcı olur, telaffuzunuzu ve akıcılığınızı dostça ve yapıcı bir şekilde geliştirir.",
+  "lechatIntro": "Dünyanın ilk popüler Fransız AI ürünü olan Mistral AI tarafından Fransa'da geliştirilen LeChat, MaCopine'ın gündelik ve gayrı resmi alışverişlerine yardımcı olur, gündelik konuşmaları simüle eder ve konuşma becerilerinizi geliştirmek için otantik ve samimi bir deneyim yaratır.",
+  "grokIntro": "Elon Musk'ın AI ekibi tarafından Amerika Birleşik Devletleri'nde geliştirilen Grok, MaCopine'a gelişmiş konuşma yetenekleri getirerek akıllı ve dil becerilerinizi gerçek zamanlı olarak geliştirmek için etkileşimli değişimler.",
+  "changeLanguage": "Dili Değiştir",
+  "maximumRecording": "Maksimum Kayıt",
+  "about": "Hakkında",
+  "version": "Sürüm",
+
+  "cancel": "İptal",
+  "confirm": "Onayla",
+  "goToSettings": "Ayarlara Git",
+  "microphonePermission": "Mikrofon İzni",
+  "microphonePermissionRequest": "ParlerAI, ses kaydı ve etkileşim özelliklerini etkinleştirmek için mikrofonunuza erişim gerektirir. Uygulamanın tam deneyimini yaşamak için lütfen mikrofon erişimine izin verin.",
+  "loading": "Yükleniyor",
+  "privacyData": "Gizlilik ve Veriler",
+  "privacyPolicy": "Gizlilik Politikası",
+  "termsofService": "Hizmet Şartları",
+  "deleteAllMyData": "Tüm verilerimi sil",
+  "deleteMyAccount": "Hesabımı sil",
+  "deleteAllMyDataHints": "Tüm verilerinizi sildiğinizde geri dönüş yoktur ve verilerinizi kurtaramazsınız. veri. Emin olun.",
+  "deleteMyAccountHints": "Hesabınızı sildiğinizde geri dönüş yoktur ve artık bu hesapla oturum açamazsınız. Emin olun.",
+
+  "textChatInstructionGuide1": "Merhaba! Ben Parlerai, C2 seviyesindeki Fransızca arkadaşınızım. Bugün dil bilgisi ve cümle yapısı sorularınızda size nasıl yardımcı olabilirim? Ayrıca bana Fransız kültürü, mutfağı, gelenekleri veya tartışmak istediğiniz başka bir konu hakkında sorular sorabilirsiniz.",
+  "hiHowAreYouGoingToday": "Merhaba, bugün nasılsınız?",
+  "pleaseTellMeAboutYourQuestions": "Sorularınızı bana anlatın",
+  "copied": "Kopyalandı",
+  "dislike": "Beğenmedim",
+  "report": "Bildir",
+  "close": "Kapat",
+  "thankYouForYourSupporting": "Desteğiniz için teşekkür ederiz.",
+  "weWillContinueWorkingToImproveTheContent": "Teşekkürler. İçeriği geliştirmeye devam edeceğiz.",
+  "weApologizeForTheInappropriateContent": "Uygunsuz içerik için özür dileriz ve geliştirmeye kararlıyız.",
+
+  "iapCapabilityTitle": "\nMyCopine Plus'ınızı edinin",
+  "iapCapabilitySubtitle": "C2 seviyesindeki Fransız arkadaşınız",
+  "iapCapability1": "Her şey Ücretsiz",
+  "iapCapability2": "Sesli mod aracılığıyla gelişmiş etkileşim",
+  "iapCapability3": "ParlerAI Gerçek Zamanlı Arama'ya sınırsız erişim",
+  "iapCapability4": "Metin değerlendirmesi, düzeltmeler, dil bilgisi kontrolleri, cümle yapısı iyileştirmeleri ve daha fazlası için sınırsız istek",
+  "iapCapability5": "Sadece 8 ay ödeyin, 4 ay ücretsiz alın, Aylık aboneliğe kıyasla %37 indirim",
+  "iapCapability6": "Günde sadece 0,267 ABD doları",
+  "iapCapability7": "İlk hafta ücretsiz",
+  "iapCapability8": "İlk iki hafta ücretsiz",
+  "iapBilledMonthly": "Aylık olarak 12,99 ABD doları olarak faturalandırılır. İstediğiniz zaman iptal edebilirsiniz.",
+  "iapBilledYearly": "Yıllık olarak 99,00 ABD doları olarak faturalandırılır. İstediğiniz zaman iptal edin.",
+  "iapMonthlyBtn": "Aylık",
+  "iapYearlyBtn": "Yıllık",
+  "iapPayButton": "ParlerAI Plus'a yükseltin",
+  "iapRestore": "Geri yükle",
+  "iapPurchaseSucceeds": "Satın alma başarılı",
+  "iapPurchaseFailed": "Satın alma başarısız",
+  "iapPurchaseCancelled": "Satın alma iptal edildi",
+  "iapRestoredSuccess": "Başarıyla geri yüklendi",
+  "iapPurchaseHistory": "Satın alma geçmişi",
+  "subscription": "Abonelik",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "Satın alma geri yükle",
+  "iapValidUntilTheDate": "{theDate} tarihine kadar geçerli",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "Apple’ın Standart EULA’sı",
+  "iapIHaveReadAndConsentedTermsOfUse": "{TermsOfUse}, {PrivacyPolicy} ve {EULA} belgelerini okudum ve kabul ediyorum.",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "Fransızca öğreniyor musun?",
+  "callToParlerAI": "Hemen kız arkadaşımı ara",
+  "helloYouWantToLearnFrenchWithOceane": "Merhaba! Arkadaşın Parlerai ile Fransızca öğrenmek ister misin?"
+}

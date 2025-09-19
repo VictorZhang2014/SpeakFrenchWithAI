@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "Sambungan",
+  "active": "Aktif",
+  "startRecording": "Mulakan rakaman",
+  "pauseRecording": "Berhenti",
+  "pleaseWaitParlerAIIsRespondingU": "Saya rasa",
+  "me": "Saya",
+  "copine": "Parlerai",
+  "audioMessage": "Mesej Audio",
+
+  "settings": "Tetapan",
+  "account": "Akaun",
+  "email": "E-mel",
+  "chatHistory": "Sejarah Sembang",
+  "login": "Log masuk",
+  "logout": "Log keluar",
+  "aiEngine": "Enjin AI",
+  "chooseTheOneYouPrefer": "Pilih yang anda suka",
+  "changeNow": "Tukar sekarang",
+  "operationCompleted": "Operasi selesai",
+  "openaiIntro": "Dibangunkan di Amerika Syarikat, dengan ChatGPT sebagai perintis. Terima kasih kepada keupayaannya untuk menjana perbualan yang realistik, OpenAI membantu MaCopine menawarkan anda dialog yang meriah dan pelbagai, seolah-olah anda bercakap dengan rakan sejati.",
+  "deepseekIntro": "Dibangunkan di China, ia merupakan AI Cina berkuasa pertama di dunia. Enjinnya membantu MaCopine menganalisis respons anda dan memberikan maklum balas yang diperibadikan, meningkatkan sebutan dan kefasihan anda dengan cara yang mesra dan membina.",
+  "lechatIntro": "Dibangunkan di Perancis oleh Mistral AI, produk AI Perancis pertama yang popular di dunia, LeChat membantu MaCopine dengan pertukaran kasual dan tidak formal, mensimulasikan perbualan santai dan mencipta pengalaman yang tulen dan mesra untuk meningkatkan kemahiran bertutur anda.",
+  "grokIntro": "Dibangunkan di Amerika Syarikat oleh pasukan AI Elon Musk, Grok membawa keupayaan perbualan lanjutan kepada MaCopine, menawarkan pertukaran pintar dan menarik untuk meningkatkan kemahiran bahasa anda dalam masa nyata.",
+  "changeLanguage": "Tukar Bahasa",
+  "maximumRecording": "Rakaman Maksimum",
+  "about": "About",
+  "version": "Versi",
+
+  "cancel": "Batal",
+  "confirm": "Sahkan",
+  "goToSettings": "Pergi ke Tetapan",
+  "microphonePermission": "Kebenaran Mikrofon",
+  "microphonePermissionRequest": "ParlerAI memerlukan akses kepada mikrofon anda untuk mengaktifkan rakaman audio dan ciri interaksi. Sila benarkan akses mikrofon untuk menikmati pengalaman penuh aplikasi.",
+  "loading": "Memuatkan",
+  "privacyData": "Privasi dan Data",
+  "privacyPolicy": "Dasar Privasi",
+  "termsofService": "Syarat Perkhidmatan",
+  "deleteAllMyData": "Padam semua data saya",
+  "deleteMyAccount": "Padam akaun saya",
+  "deleteAllMyDataHints": "Sebaik sahaja anda memadamkan semua data anda, anda tidak boleh kembali dan anda tidak boleh memulihkan data anda. data. Yakinlah.",
+  "deleteMyAccountHints": "Sebaik sahaja anda memadamkan akaun anda, anda tidak boleh kembali dan anda tidak boleh log masuk dengan akaun ini lagi. Pastikan anda melakukannya.",
+
+  "textChatInstructionGuide1": "Hello! Saya Parlerai, rakan Perancis peringkat C2 anda. Bagaimanakah saya boleh membantu anda dengan soalan tatabahasa dan struktur ayat anda hari ini? Anda juga boleh bertanya kepada saya soalan tentang budaya, masakan, tradisi Perancis atau mana-mana topik lain yang anda ingin bincangkan.",
+  "hiHowAreYouGoingToday": "Hai, apa khabar hari ini?",
+  "pleaseTellMeAboutYourQuestions": "Beritahu saya tentang soalan anda",
+  "copied": "Disalin",
+  "dislike": "Tidak suka",
+  "report": "Laporkan",
+  "close": "Tutup",
+  "thankYouForYourSupporting": "Terima kasih atas sokongan anda.",
+  "weWillContinueWorkingToImproveTheContent": "Terima kasih. Kami akan terus menambah baik kandungan ini.",
+  "weApologizeForTheInappropriateContent": "Kami mohon maaf atas kandungan yang tidak sesuai dan akan memperbaikinya.",
+
+  "iapCapabilityTitle": "Dapatkan \nMyCopine Plus anda",
+  "iapCapabilitySubtitle": "Rakan Perancis peringkat C2 anda",
+  "iapCapability1": "Semuanya Percuma",
+  "iapCapability2": "Interaksi lanjutan melalui mod suara",
+  "iapCapability3": "Akses tanpa had kepada Panggilan Masa Nyata ParlerAI",
+  "iapCapability4": "Permintaan tanpa had untuk penilaian teks, pembetulan, semakan tatabahasa, penambahbaikan struktur ayat dan banyak lagi",
+  "iapCapability5": "Bayar hanya 8 bulan, dapatkan 4 bulan percuma, dengan diskaun 37% berbanding dengan langganan bulanan",
+  "iapCapability6": "Hanya $0.267 sehari",
+  "iapCapability7": "Minggu pertama adalah percuma",
+  "iapCapability8": "Dua minggu pertama adalah percuma",
+  "iapBilledMonthly": "Dibilkan setiap bulan pada $12.99. Batalkan bila-bila masa.",
+  "iapBilledYearly": "Dibilkan setiap tahun pada $99.00. Batalkan bila-bila masa.",
+  "iapMonthlyBtn": "Bulanan",
+  "iapYearlyBtn": "Tahunan",
+  "iapPayButton": "Naik taraf kepada ParlerAI Plus",
+  "iapRestore": "Pulihkan",
+  "iapPurchaseSucceeds": "Pembelian Berjaya",
+  "iapPurchaseFailed": "Pembelian Gagal",
+  "iapPurchaseCancelled": "Pembelian Dibatalkan",
+  "iapRestoredSuccess": "Berjaya Dipulihkan",
+  "iapPurchaseHistory": "Sejarah Pembelian",
+  "subscription": "Langganan",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "Pulihkan Pembelian",
+  "iapValidUntilTheDate": "Sah sehingga {theDate}",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "EULA Standard Apple",
+  "iapIHaveReadAndConsentedTermsOfUse": "Saya telah membaca dan bersetuju dengan {TermsOfUse}, {PrivacyPolicy} dan {EULA}.",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "Belajar bahasa Perancis?",
+  "callToParlerAI": "Panggil ke Teman Wanita Saya Sekarang",
+  "helloYouWantToLearnFrenchWithOceane": "Hello! Adakah anda mahu belajar bahasa Perancis dengan rakan anda Parlerai?"
+}

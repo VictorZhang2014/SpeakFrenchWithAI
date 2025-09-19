@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "Connexion",
+  "active": "Actif",
+  "startRecording": "Commencer l'enregistrement",
+  "pauseRecording": "Arrêter",
+  "pleaseWaitParlerAIIsRespondingU": "Je pense",
+  "me": "Moi",
+  "copine": "Parlerai",
+  "audioMessage": "Message Audio",
+
+  "settings": "Paramètres",
+  "account": "Compte",
+  "email": "E-mail",
+  "chatHistory": "Historique des chats",
+  "login": "Se connecter",
+  "logout": "Se déconnecter",
+  "aiEngine": "Moteur d'IA",
+  "chooseTheOneYouPrefer": "Choisissez celui que vous préférez",
+  "changeNow": "Changer maintenant",
+  "operationCompleted": "Opération terminée",
+  "openaiIntro": "Développé aux États-Unis, avec ChatGPT en tant que pionnier. Grâce à sa capacité à générer des conversations réalistes, OpenAI aide MaCopine à vous offrir des dialogues vivants et variés, comme si vous parliez avec une véritable amie.",
+  "deepseekIntro": "Développé en Chine, c'est le premier puissant AI chinois connu du monde. Son moteur aide MaCopine à analyser vos réponses et à fournir un retour personnalisé, améliorant ainsi votre prononciation et votre fluidité de manière amicale et constructive.",
+  "lechatIntro": "Développé en France par Mistral AI, le premier produit AI français populaire connu du monde, LeChat aide MaCopine avec des échanges décontractés et informels, en simulant des conversations informelles et en créant une expérience authentique et amicale pour améliorer vos compétences orales.",
+  "grokIntro": "Développé aux États-Unis par l’équipe d’IA d’Elon Musk, Grok apporte des capacités avancées de conversation à MaCopine, offrant des échanges intelligents et engageants pour améliorer vos compétences linguistiques en temps réel.",
+  "changeLanguage": "Changer langue",
+  "maximumRecording": "L'enregistrement maximal",
+  "about": "À propos",
+  "version": "Version",
+
+  "cancel": "Annuler",
+  "confirm": "Confirmer",
+  "goToSettings": "Allez à Réglages",
+  "microphonePermission": "Autorisation du microphone",
+  "microphonePermissionRequest": "ParlerAI nécessite l'accès à votre microphone pour permettre l'enregistrement audio et les fonctionnalités d'interaction. Veuillez accorder l'accès au microphone pour profiter pleinement de l'application.",
+  "loading": "Chargement",
+  "privacyData": "Confidentialité et données",
+  "privacyPolicy": "Politique de confidentialité",
+  "termsofService": "Conditions d'utilisation",
+  "deleteAllMyData": "Supprimer toutes mes données",
+  "deleteMyAccount": "Supprimer mon compte",
+  "deleteAllMyDataHints": "Une fois que vous avez supprimé toutes vos données, il n'y a pas de retour en arrière et vous ne pouvez pas récupérer vos données. Soyez-en sûr.",
+  "deleteMyAccountHints": "Une fois que vous avez supprimé votre compte, il n'y a pas de retour en arrière et vous ne pouvez plus vous connecter avec ce compte. Soyez-en sûr.",
+
+  "textChatInstructionGuide1": "Bonjour! Je suis Parlerai, votre copine de niveau C2 en français. Comment puis-je vous aider avec vos questions de grammaire et de structure de phrases aujourd'hui? Tu peux aussi me poser des questions sur la culture française, la cuisine, les traditions et la langue, ou tout autre sujet dont tu as envie de discuter.",
+  "hiHowAreYouGoingToday": "Salut, comment allez-vous aujourd'hui?",
+  "pleaseTellMeAboutYourQuestions": "Parlez-moi de vos questions",
+  "copied": "Copié",
+  "dislike": "Je n’aime pas",
+  "report": "Signaler",
+  "close": "Fermer",
+  "thankYouForYourSupporting": "Merci pour votre soutien.",
+  "weWillContinueWorkingToImproveTheContent": "Merci. Nous continuerons à améliorer le contenu.",
+  "weApologizeForTheInappropriateContent": "Nous nous excusons pour le contenu inapproprié et nous nous engageons à l’améliorer.",
+
+  "iapCapabilityTitle": "Procurez votre \nParlerAI Plus",
+  "iapCapabilitySubtitle": "Votre copine de niveau C2 en français",
+  "iapCapability1": "Tout est gratuit",
+  "iapCapability2": "Interaction avancée via le mode vocal",
+  "iapCapability3": "Accès illimité à ParlerAI Realtime Call",
+  "iapCapability4": "Demandes illimitées d'évaluation de texte, de corrections, de vérifications grammaticales et d'améliorations de la structure des phrases, etc.",
+  "iapCapability5": "Payez seulement 8 mois, 4 mois gratuits, avec une réduction de 37% par rapport à l'abonnement mensuel",
+  "iapCapability6": "Seulement $0.267 par jour",
+  "iapCapability7": "La première semaine est gratuite",
+  "iapCapability8": "Les deux premières semaines sont gratuites",
+  "iapBilledMonthly": "Facturation mensuelle à $12.99. Annuler à tout moment.",
+  "iapBilledYearly": "Facturation annuelle à $99.00. Annulation possible à tout moment.",
+  "iapMonthlyBtn": "Mensuel",
+  "iapYearlyBtn": "Annuel",
+  "iapPayButton": "Passer à ParlerAI Plus",
+  "iapRestore": "Restaurer",
+  "iapPurchaseSucceeds": "Achat réussi",
+  "iapPurchaseFailed": "Achat échoué",
+  "iapPurchaseCancelled": "Achat annulé",
+  "iapRestoredSuccess": "Restauré avec succès",
+  "iapPurchaseHistory": "Historique des achats",
+  "subscription": "Abonnement",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "Restaurer l'achat",
+  "iapValidUntilTheDate": "Valable jusqu'au {theDate}",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "EULA standard d’Apple",
+  "iapIHaveReadAndConsentedTermsOfUse": "J'ai lu et j'accepte les {TermsOfUse}, la {PrivacyPolicy} et le {EULA}.",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "Apprenez le français?",
+  "callToParlerAI": "Appelez ParlerAI maintenant",
+  "helloYouWantToLearnFrenchWithOceane": "Bonjour! Voulez-vous étudier le français avec votre copine Parlerai?"
+}

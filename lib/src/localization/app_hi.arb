@@ -1,0 +1,112 @@
+{
+  "appParlerAI": "ParlerAI",
+
+  "connecting": "कनेक्शन",
+  "active": "सक्रिय",
+  "startRecording": "रिकॉर्डिंग शुरू करें",
+  "pauseRecording": "रोकें",
+  "pleaseWaitParlerAIIsRespondingU": "मुझे लगता है",
+  "me": "मुझे",
+  "copine": "Parlerai",
+  "audioMessage": "ऑडियो संदेश",
+
+  "settings": "सेटिंग",
+  "account": "खाता",
+  "email": "ईमेल",
+  "chatHistory": "चैट इतिहास",
+  "login": "लॉग इन करें",
+  "logout": "लॉग आउट करें",
+  "aiEngine": "AI इंजन",
+  "chooseTheOneYouPrefer": "अपनी पसंद का चुनें",
+  "changeNow": "अभी बदलें",
+  "operationCompleted": "ऑपरेशन पूरा हुआ",
+  "openaiIntro": "चैटजीपीटी के साथ संयुक्त राज्य अमेरिका में विकसित किया गया। यथार्थवादी बातचीत उत्पन्न करने की अपनी क्षमता के कारण, OpenAI MaCopine को आपको जीवंत और विविध संवाद प्रदान करने में मदद करता है, जैसे कि आप किसी वास्तविक मित्र से बात कर रहे हों।",
+  "deepseekIntro": "चीन में विकसित, यह दुनिया का पहला शक्तिशाली चीनी AI है। इसका इंजन MaCopine को आपकी प्रतिक्रियाओं का विश्लेषण करने और व्यक्तिगत प्रतिक्रिया प्रदान करने में मदद करता है, जिससे आपके उच्चारण और प्रवाह में सुधार होता है।",
+  "lechatIntro": "दुनिया के पहले लोकप्रिय फ्रेंच AI उत्पाद, मिस्ट्रल AI द्वारा फ्रांस में विकसित, LeChat MaCopine को अनौपचारिक और अनौपचारिक आदान-प्रदान में मदद करता है, आकस्मिक बातचीत का अनुकरण करता है और आपके बोलने के कौशल को बेहतर बनाने के लिए एक प्रामाणिक और मैत्रीपूर्ण अनुभव बनाता है।",
+  "grokIntro": "एलन मस्क की AI टीम द्वारा संयुक्त राज्य अमेरिका में विकसित, Grok MaCopine में उन्नत संवादात्मक क्षमताएँ लाता है, जो वास्तविक समय में आपके भाषा कौशल को बेहतर बनाने के लिए बुद्धिमान और आकर्षक आदान-प्रदान प्रदान करता है।",
+  "changeLanguage": "बदलें भाषा",
+  "maximumRecording": "अधिकतम रिकॉर्डिंग",
+  "about": "के बारे में",
+  "version": "संस्करण",
+
+  "cancel": "रद्द करें",
+  "confirm": "पुष्टि करें",
+  "goToSettings": "सेटिंग पर जाएँ",
+  "microphonePermission": "माइक्रोफ़ोन अनुमति",
+  "microphonePermissionRequest": "ParlerAI को ऑडियो रिकॉर्डिंग और इंटरैक्शन फीचर्स सक्षम करने के लिए आपके माइक्रोफोन तक पहुंच की आवश्यकता है। कृपया ऐप का पूर्ण अनुभव प्राप्त करने के लिए माइक्रोफोन एक्सेस की अनुमति दें।",
+  "loading": "लोड हो रहा है",
+  "privacyData": "गोपनीयता और डेटा",
+  "privacyPolicy": "गोपनीयता नीति",
+  "termsofService": "सेवा की शर्तें",
+  "deleteAllMyData": "मेरा सारा डेटा हटाएं",
+  "deleteMyAccount": "मेरा खाता हटाएं",
+  "deleteAllMyDataHints": "एक बार जब आप अपना सारा डेटा हटा देते हैं, तो वापस नहीं जा सकते और आप अपना डेटा पुनर्प्राप्त नहीं कर सकते. डेटा। इसे लेकर आश्वस्त रहें।",
+  "deleteMyAccountHints": "एक बार जब आप अपना खाता हटा देते हैं, तो वापस जाने का कोई रास्ता नहीं होता है और आप इस खाते से लॉग इन नहीं कर सकते हैं। इसे लेकर आश्वस्त रहें।",
+
+  "textChatInstructionGuide1": "नमस्ते! मैं ओसीन हूँ, आपकी C2 स्तर की फ्रेंच मित्र। आज मैं आपके व्याकरण और वाक्य संरचना के प्रश्नों में आपकी कैसे मदद कर सकती हूँ? आप मुझसे फ़्रेंच संस्कृति, भोजन, परंपराओं या किसी अन्य विषय के बारे में भी प्रश्न पूछ सकते हैं जिस पर आप चर्चा करना चाहते हैं।",
+  "hiHowAreYouGoingToday": "नमस्ते, आज आप कैसे हैं?",
+  "pleaseTellMeAboutYourQuestions": "मुझे अपने प्रश्नों के बारे में बताएं",
+  "copied": "कॉपी किया गया",
+  "dislike": "नापसंद",
+  "report": "रिपोर्ट करें",
+  "close": "बंद करें",
+  "thankYouForYourSupporting": "आपके समर्थन के लिए धन्यवाद।",
+  "weWillContinueWorkingToImproveTheContent": "धन्यवाद। हम सामग्री को बेहतर बनाने के लिए काम जारी रखेंगे।",
+  "weApologizeForTheInappropriateContent": "अनुचित सामग्री के लिए हम क्षमा चाहते हैं और इसे बेहतर बनाने के लिए प्रतिबद्ध हैं।",
+
+  "iapCapabilityTitle": "अपना \nMyCopine Plus प्राप्त करें",
+  "iapCapabilitySubtitle": "आपका C2 स्तर का फ़्रेंच मित्र",
+  "iapCapability1": "सब कुछ मुफ़्त है",
+  "iapCapability2": "वॉयस मोड के ज़रिए उन्नत इंटरैक्शन",
+  "iapCapability3": "ParlerAI रीयलटाइम कॉल तक असीमित पहुँच",
+  "iapCapability4": "टेक्स्ट मूल्यांकन, सुधार, व्याकरण जाँच, वाक्य संरचना सुधार और बहुत कुछ के लिए असीमित अनुरोध",
+  "iapCapability5": "केवल 8 महीने का भुगतान करें, 4 महीने मुफ़्त पाएँ, मासिक सदस्यता की तुलना में 37% छूट के साथ",
+  "iapCapability6": "केवल $0.267 प्रति दिन",
+  "iapCapability7": "पहला सप्ताह मुफ़्त है",
+  "iapCapability8": "पहले दो सप्ताह मुफ़्त हैं",
+  "iapBilledMonthly": "मासिक बिल $12.99 है। किसी भी समय रद्द करें।",
+  "iapBilledYearly": "वार्षिक बिल $99.00 है। किसी भी समय रद्द करें।",
+  "iapMonthlyBtn": "मासिक",
+  "iapYearlyBtn": "वार्षिक",
+  "iapPayButton": "ParlerAI Plus में अपग्रेड करें",
+  "iapRestore": "पुनर्स्थापित करें",
+  "iapPurchaseSucceeds": "खरीद सफल",
+  "iapPurchaseFailed": "खरीद विफल",
+  "iapPurchaseCancelled": "खरीद रद्द",
+  "iapRestoredSuccess": "सफलतापूर्वक बहाल",
+  "iapPurchaseHistory": "खरीद इतिहास",
+  "subscription": "सदस्यता",
+  "parlerAIPlus": "ParlerAI Plus",
+  "restorePurchase": "खरीद पुनर्स्थापित करें",
+  "iapValidUntilTheDate": "तब तक मान्य {theDate}",
+  "@iapValidUntilTheDate": {
+    "placeholders": {
+      "theDate": {
+        "type": "String",
+        "example": "9 mai 2025"
+      }
+    }
+  },
+  "appleTermsOfUse": "Apple की मानक EULA",
+  "iapIHaveReadAndConsentedTermsOfUse": "मैंने {TermsOfUse}, {PrivacyPolicy}, और {EULA} को पढ़ लिया है और सहमत हूँ।",
+  "@iapIHaveReadAndConsentedTermsOfUse": {
+    "placeholders": {
+      "TermsOfUse": {
+        "type": "String",
+        "example": "Terms of Use"
+      },
+      "PrivacyPolicy": {
+        "type": "String",
+        "example": "Privacy Policy"
+      },
+      "EULA": {
+        "type": "String",
+        "example": "Apple Terms of Use"
+      }
+    }
+  },
+
+  "learnFrench": "फ्रेंच सीखें?",
+  "callToParlerAI": "अभी मेरी गर्लफ्रेंड को कॉल करें",
+  "helloYouWantToLearnFrenchWithOceane": "नमस्ते! क्या आप अपनी दोस्त ओसीन के साथ फ्रेंच सीखना चाहते हैं?"
+}
